@@ -1,0 +1,35 @@
+## TdMPGameSettings
+| Tag | Type | Default |
+| :--- | :--- | :--- |
+| MaxLives | Int | 16 |
+| RoundTimeDuration | Int | 10 |
+| StashesToWin | Int | 1 |
+| RoundsToWin | Int | 3 |
+| DedicatedServer | Int | 0 |
+| NonStandardOptions | Int | 0 | 
+| PingInMs | Int | 0 | 
+| OwningPlayerName | ? | ? | 
+| NumPublicConnections | Int | 16 | 
+| NumPrivateConnections | Int | 0 | 
+| NumOpenPublicConnections | Int | 0 | 
+| NumOpenPrivateConnections | Int | 0 | 
+| bUsesStats | Bool | True | 
+| bUsesPresence | Bool | True | 
+| bUsesArbitration | Bool | False | 
+| bShouldAdvertise | Bool | True | 
+| bIsListPlay | Bool | False | 
+| bIsLanMatch | Bool | False | 
+| bIsGoldOnlyListPlay | Bool | False | 
+| bIsDedicated | Bool | False | 
+| bAllowJoinViaPresence | Bool | True | 
+| bAllowJoinInProgress | Bool | True | 
+| bAllowInvites | Bool | True | 
+| AverageSkillRating | Float | 0,000000 |
+
+## OnlinePlayerData
+| Tag | Type | Default |
+| :--- | :--- | :--- |
+| LastInviteFrom | ? | ? |
+| TotalDownloadsAvailable | Int | 0 |
+| NumNewDownloadsAvailable | Int | 0 |
+| PlayerNickName | String | PlayerNickNameHere |
