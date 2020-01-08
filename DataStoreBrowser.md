@@ -1,7 +1,7 @@
 ## TdMPGameSettings
 | Tag | Type | Default |
 | :--- | :--- | :--- |
-| MaxLives | Int | 16 |
+| MaxPlayers| Int | 16 |
 | RoundTimeDuration | Int | 10 |
 | StashesToWin | Int | 1 |
 | RoundsToWin | Int | 3 |
