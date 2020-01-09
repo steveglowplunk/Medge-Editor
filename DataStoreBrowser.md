@@ -25,11 +25,3 @@
 | bAllowJoinInProgress | Bool | True | 
 | bAllowInvites | Bool | True | 
 | AverageSkillRating | Float | 0,000000 |
-
-## OnlinePlayerData
-| Tag | Type | Default |
-| :--- | :--- | :--- |
-| LastInviteFrom | ? | ? |
-| TotalDownloadsAvailable | Int | 0 |
-| NumNewDownloadsAvailable | Int | 0 |
-| PlayerNickName | String | PlayerNickNameHere |
