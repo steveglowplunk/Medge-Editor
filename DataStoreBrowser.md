@@ -8,7 +8,7 @@
 | DedicatedServer | Int | 0 |
 | NonStandardOptions | Int | 0 | 
 | PingInMs | Int | 0 | 
-| OwningPlayerName | ? | ? | 
+| OwningPlayerName | Any |  | 
 | NumPublicConnections | Int | 16 | 
 | NumPrivateConnections | Int | 0 | 
 | NumOpenPublicConnections | Int | 0 | 
