@@ -1,3 +1,9 @@
+## DataStoreBrowser
+Unfortunately these seems to be only ones that you can change... :(
+
+## How to use these?
+Type `<TdMPGameSettings:>` after the `:` insert a Tag from the table below. Example `<TdMPGameSettings:RoundsToWin>`
+
 ## TdMPGameSettings
 | Tag | Type | Default |
 | :--- | :--- | :--- |
