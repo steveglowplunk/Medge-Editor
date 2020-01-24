@@ -6,6 +6,3 @@ Now drag the 2 folders from UT3 to `C:\Program Files (x86)\Steam\steamapps\commo
 
 ## 3. 
 ?
-
-## 4. 
-?
